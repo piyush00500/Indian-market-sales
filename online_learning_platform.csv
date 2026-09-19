@@ -1,0 +1,201 @@
+UserID,UserName,Age,Gender,Region,SignupDate,CourseID,CourseName,Category,CoursePrice,PurchaseDate,DurationHours,Rating,IsCertificateIssued,PaymentMethod,IsActiveSubscription
+1,User001,56,Other,Asia,2022-02-21,4657,UI/UX Design,Design,161.34,2022-08-14,8.2,4.1,True,PayPal,True
+2,User002,38,Other,Africa,2022-06-28,1520,Business Analytics,Business,39.64,2022-08-27,7.1,1.2,True,Credit Card,True
+3,User003,41,Other,Africa,2022-02-24,9928,Startup Strategy,Business,73.4,2022-07-25,6.6,3.6,False,Credit Card,False
+4,User004,19,Female,Asia,2022-11-23,5552,Social Media Marketing,Marketing,147.18,2022-12-20,37.6,1.0,True,Credit Card,False
+5,User005,38,Male,South America,2022-07-18,5333,Photoshop Basics,Design,127.32,2022-12-03,24.9,1.0,True,PayPal,False
+6,User006,42,Male,South America,2022-06-11,6925,Business Analytics,Business,65.33,2022-06-23,24.9,1.6,True,PayPal,True
+7,User007,45,Other,Europe,2023-08-16,2654,Python for Data Science,Data Science,195.01,2024-01-26,10.1,1.4,False,UPI,False
+8,User008,20,Female,Europe,2024-01-29,5374,UI/UX Design,Design,173.39,2024-06-14,27.5,2.8,True,PayPal,True
+9,User009,35,Other,Europe,2022-12-01,5422,Social Media Marketing,Marketing,190.29,2022-12-16,38.7,4.2,True,PayPal,False
+10,User010,26,Male,Asia,2023-10-09,2084,Social Media Marketing,Marketing,13.03,2023-12-03,10.0,2.0,True,PayPal,False
+11,User011,24,Other,South America,2024-03-21,5339,SEO Fundamentals,Marketing,125.9,2024-08-18,33.5,1.7,True,Credit Card,False
+12,User012,34,Female,Africa,2024-03-28,3266,UI/UX Design,Design,59.17,2024-04-26,26.8,2.2,False,Credit Card,True
+13,User013,23,Male,Europe,2024-05-14,7304,Startup Strategy,Business,49.51,2024-09-27,23.1,1.1,False,PayPal,False
+14,User014,35,Female,Africa,2022-01-24,9797,Deep Learning Basics,Data Science,157.28,2022-02-22,37.6,4.6,False,PayPal,False
+15,User015,31,Female,South America,2022-11-20,5315,SEO Fundamentals,Marketing,148.18,2023-04-30,13.7,3.3,True,PayPal,True
+16,User016,57,Female,Africa,2023-02-12,3646,JavaScript Essentials,Web Development,170.46,2023-06-18,30.1,3.2,True,PayPal,False
+17,User017,41,Male,Asia,2024-01-14,1949,UI/UX Design,Design,77.78,2024-02-05,12.0,3.2,True,PayPal,True
+18,User018,58,Other,South America,2022-05-22,3103,Startup Strategy,Business,66.29,2022-07-29,7.4,1.1,False,PayPal,True
+19,User019,26,Other,Africa,2024-05-16,4295,React for Beginners,Web Development,156.73,2024-09-06,8.7,1.0,False,UPI,False
+20,User020,28,Other,South America,2022-09-05,2049,HTML & CSS,Web Development,47.78,2023-02-03,28.7,4.2,False,Credit Card,True
+21,User021,22,Male,Asia,2022-05-26,2104,Python for Data Science,Data Science,186.0,2022-10-05,26.4,4.7,True,UPI,True
+22,User022,26,Male,North America,2024-09-21,3167,React for Beginners,Web Development,128.43,2025-01-04,13.9,1.3,False,Credit Card,False
+23,User023,40,Male,Asia,2022-07-18,7939,Social Media Marketing,Marketing,137.08,2023-01-07,27.0,3.4,False,UPI,True
+24,User024,39,Other,Asia,2022-05-05,6559,Email Marketing,Marketing,178.57,2022-06-23,19.4,1.5,True,Credit Card,True
+25,User025,31,Other,South America,2022-10-15,5563,SEO Fundamentals,Marketing,171.29,2023-02-06,29.1,1.9,False,Credit Card,True
+26,User026,31,Other,Asia,2022-04-14,2528,Startup Strategy,Business,103.82,2022-08-17,21.4,2.7,True,Credit Card,False
+27,User027,59,Female,Europe,2024-04-01,7209,Python for Data Science,Data Science,93.47,2024-07-27,8.9,4.6,True,UPI,False
+28,User028,49,Female,South America,2024-09-23,5861,HTML & CSS,Web Development,142.15,2024-12-13,6.4,3.4,True,Credit Card,True
+29,User029,32,Male,Asia,2024-09-03,3579,Finance for Non-Finance,Business,153.55,2024-10-21,9.9,1.3,True,PayPal,True
+30,User030,39,Male,Africa,2022-05-20,2964,JavaScript Essentials,Web Development,177.29,2022-10-26,25.3,2.2,True,PayPal,True
+31,User031,23,Male,South America,2024-12-06,4346,Photoshop Basics,Design,96.74,2025-03-18,9.5,2.7,False,Credit Card,False
+32,User032,28,Male,North America,2024-07-25,1152,UI/UX Design,Design,71.63,2024-08-13,5.8,2.4,False,PayPal,True
+33,User033,50,Other,Europe,2024-11-02,6718,UI/UX Design,Design,61.71,2025-01-14,26.3,1.0,True,Credit Card,False
+34,User034,30,Male,South America,2023-09-12,9666,Finance for Non-Finance,Business,173.54,2024-02-29,1.3,3.0,True,PayPal,False
+35,User035,26,Male,Europe,2023-06-26,3546,Python for Data Science,Data Science,102.12,2023-09-22,28.0,2.1,False,UPI,True
+36,User036,41,Male,North America,2024-11-01,1832,Social Media Marketing,Marketing,189.15,2025-01-11,13.6,3.1,True,PayPal,False
+37,User037,58,Male,Asia,2023-11-15,5291,React for Beginners,Web Development,86.73,2024-04-05,3.5,2.0,True,PayPal,False
+38,User038,29,Other,South America,2022-01-20,3442,Python for Data Science,Data Science,57.84,2022-05-11,20.4,2.2,True,UPI,True
+39,User039,34,Male,Asia,2023-09-24,6862,UI/UX Design,Design,60.69,2024-03-13,39.1,2.6,True,PayPal,True
+40,User040,40,Male,North America,2024-04-12,3532,Finance for Non-Finance,Business,62.94,2024-07-27,36.4,2.0,True,Credit Card,True
+41,User041,19,Male,Europe,2023-11-12,5065,Email Marketing,Marketing,110.88,2024-02-18,18.5,3.2,False,Credit Card,True
+42,User042,21,Male,South America,2023-04-01,6728,JavaScript Essentials,Web Development,25.36,2023-04-08,15.4,2.0,False,Credit Card,True
+43,User043,55,Other,Europe,2024-03-27,2137,Photoshop Basics,Design,79.88,2024-09-17,25.7,3.5,False,UPI,False
+44,User044,28,Other,North America,2022-02-26,3925,Machine Learning 101,Data Science,165.12,2022-07-29,32.1,1.6,False,Credit Card,True
+45,User045,23,Female,North America,2023-10-05,9379,Email Marketing,Marketing,142.2,2023-12-10,34.5,2.3,True,UPI,True
+46,User046,53,Male,South America,2022-01-04,4228,Finance for Non-Finance,Business,13.15,2022-06-24,21.0,1.9,False,UPI,True
+47,User047,49,Female,Africa,2023-10-05,5920,Deep Learning Basics,Data Science,28.27,2023-12-28,37.7,2.6,False,PayPal,False
+48,User048,56,Female,North America,2022-09-18,7211,JavaScript Essentials,Web Development,187.98,2022-12-31,6.4,2.4,True,PayPal,False
+49,User049,42,Other,Asia,2023-09-15,8043,UI/UX Design,Design,49.72,2024-01-07,22.1,3.8,False,UPI,False
+50,User050,24,Other,Europe,2024-11-12,3780,Email Marketing,Marketing,135.4,2024-12-06,32.9,3.2,True,UPI,False
+51,User051,19,Male,North America,2023-04-06,1400,HTML & CSS,Web Development,199.29,2023-09-10,38.7,3.2,True,Credit Card,False
+52,User052,49,Male,South America,2024-04-28,7291,Startup Strategy,Business,130.29,2024-06-05,14.2,2.4,False,UPI,True
+53,User053,33,Other,Asia,2022-08-07,3881,SEO Fundamentals,Marketing,180.45,2022-09-08,35.6,4.1,False,Credit Card,True
+54,User054,41,Female,Europe,2024-08-09,6198,Finance for Non-Finance,Business,171.68,2024-12-28,37.5,4.1,False,PayPal,False
+55,User055,57,Female,Europe,2024-08-30,5050,Social Media Marketing,Marketing,125.22,2025-02-07,1.4,1.4,False,PayPal,False
+56,User056,52,Male,North America,2024-06-19,5681,Deep Learning Basics,Data Science,195.0,2024-09-09,12.1,2.2,True,UPI,False
+57,User057,19,Other,Asia,2022-10-11,7275,HTML & CSS,Web Development,141.46,2022-10-28,26.4,1.9,True,PayPal,True
+58,User058,50,Female,South America,2023-11-09,7812,Business Analytics,Business,13.43,2024-02-17,20.3,1.7,True,Credit Card,False
+59,User059,25,Other,Asia,2024-02-19,6763,SEO Fundamentals,Marketing,171.35,2024-07-06,26.6,3.3,False,UPI,False
+60,User060,29,Other,Africa,2023-03-28,5471,SEO Fundamentals,Marketing,106.67,2023-07-06,25.8,2.0,False,UPI,True
+61,User061,47,Female,South America,2022-12-05,9751,SEO Fundamentals,Marketing,194.87,2022-12-27,16.3,4.6,True,UPI,True
+62,User062,44,Other,South America,2022-10-05,1823,SEO Fundamentals,Marketing,92.53,2022-11-29,14.7,3.6,False,UPI,False
+63,User063,50,Female,North America,2023-11-23,7906,Social Media Marketing,Marketing,47.1,2023-11-28,29.2,2.1,False,Credit Card,False
+64,User064,52,Other,Africa,2022-04-17,2124,UI/UX Design,Design,156.03,2022-06-08,2.7,5.0,True,Credit Card,True
+65,User065,47,Male,Africa,2022-11-09,8758,HTML & CSS,Web Development,191.25,2023-03-09,36.7,2.5,True,PayPal,True
+66,User066,58,Other,North America,2024-01-26,2876,React for Beginners,Web Development,191.08,2024-06-23,13.9,3.2,True,UPI,True
+67,User067,48,Male,North America,2024-02-08,4249,Email Marketing,Marketing,193.09,2024-03-06,34.3,2.2,True,PayPal,True
+68,User068,38,Other,North America,2022-09-05,6688,Startup Strategy,Business,46.27,2022-09-23,11.5,2.9,False,PayPal,False
+69,User069,35,Other,North America,2022-01-26,2729,Social Media Marketing,Marketing,115.79,2022-03-07,37.5,3.8,False,UPI,False
+70,User070,57,Female,Europe,2024-12-04,9817,Figma for Designers,Design,23.38,2025-05-05,9.1,3.7,False,UPI,False
+71,User071,40,Female,North America,2023-05-18,8385,Machine Learning 101,Data Science,36.62,2023-08-13,21.2,4.5,True,UPI,False
+72,User072,34,Male,South America,2023-10-28,4475,JavaScript Essentials,Web Development,171.25,2024-01-08,6.3,3.8,False,UPI,False
+73,User073,56,Other,North America,2022-01-21,2402,Startup Strategy,Business,65.78,2022-05-27,32.6,4.2,True,PayPal,False
+74,User074,42,Other,Europe,2024-09-02,1282,Social Media Marketing,Marketing,126.19,2024-12-15,4.2,1.0,True,UPI,True
+75,User075,53,Other,Europe,2023-09-20,8753,Business Analytics,Business,161.68,2023-12-20,26.3,3.8,False,UPI,False
+76,User076,33,Other,South America,2023-07-09,4777,Photoshop Basics,Design,19.65,2023-09-28,35.6,1.1,True,PayPal,True
+77,User077,51,Male,Africa,2023-01-15,8933,HTML & CSS,Web Development,27.86,2023-02-10,23.6,1.1,False,PayPal,False
+78,User078,42,Male,North America,2023-04-11,5952,UI/UX Design,Design,39.46,2023-06-21,39.3,4.4,True,PayPal,True
+79,User079,39,Male,Asia,2023-08-22,9042,React for Beginners,Web Development,57.55,2023-12-21,2.5,2.2,True,Credit Card,False
+80,User080,54,Female,South America,2023-11-29,5136,HTML & CSS,Web Development,109.23,2024-03-11,31.0,1.9,False,Credit Card,True
+81,User081,22,Female,Asia,2022-04-20,5978,HTML & CSS,Web Development,96.88,2022-09-10,33.8,1.8,True,Credit Card,True
+82,User082,47,Female,Africa,2023-04-08,8381,Business Analytics,Business,112.72,2023-06-26,25.9,3.9,False,UPI,False
+83,User083,30,Other,Africa,2022-05-04,2625,Finance for Non-Finance,Business,194.21,2022-07-11,28.9,1.2,True,PayPal,True
+84,User084,36,Other,Asia,2022-11-18,2229,HTML & CSS,Web Development,93.4,2023-03-14,4.1,1.1,True,Credit Card,False
+85,User085,40,Other,Africa,2024-08-20,4792,UI/UX Design,Design,91.38,2025-02-16,27.9,1.2,False,PayPal,False
+86,User086,18,Female,Asia,2023-04-24,4241,Figma for Designers,Design,94.05,2023-10-07,10.4,1.4,False,Credit Card,True
+87,User087,42,Male,North America,2022-10-19,3718,Python for Data Science,Data Science,135.44,2023-02-09,11.9,4.8,False,PayPal,False
+88,User088,56,Male,South America,2023-09-15,9199,Social Media Marketing,Marketing,134.85,2024-02-16,18.0,3.9,False,UPI,True
+89,User089,20,Male,South America,2023-10-23,1423,Business Analytics,Business,57.07,2024-04-13,14.9,4.0,True,Credit Card,True
+90,User090,46,Female,Africa,2022-03-24,9502,JavaScript Essentials,Web Development,32.05,2022-08-21,2.8,1.2,False,UPI,True
+91,User091,22,Female,South America,2022-07-06,7690,Social Media Marketing,Marketing,100.09,2022-08-17,4.8,3.0,False,UPI,True
+92,User092,56,Female,South America,2024-10-11,7561,Figma for Designers,Design,75.8,2024-12-31,19.1,3.6,True,UPI,True
+93,User093,27,Female,North America,2022-08-26,1018,Email Marketing,Marketing,190.34,2022-10-14,35.6,2.0,False,UPI,True
+94,User094,27,Other,North America,2024-10-17,4335,SEO Fundamentals,Marketing,128.91,2024-12-30,20.6,4.4,False,PayPal,True
+95,User095,22,Female,South America,2022-09-06,4920,Deep Learning Basics,Data Science,139.95,2023-01-26,25.0,4.8,True,UPI,True
+96,User096,19,Female,Asia,2023-04-06,2924,Machine Learning 101,Data Science,15.04,2023-08-15,23.8,4.8,True,UPI,False
+97,User097,41,Other,North America,2024-04-30,4993,Social Media Marketing,Marketing,138.66,2024-08-07,23.4,1.5,False,PayPal,True
+98,User098,54,Male,Africa,2024-11-06,5526,HTML & CSS,Web Development,128.93,2024-11-07,33.0,3.6,False,UPI,False
+99,User099,46,Female,North America,2024-09-29,9824,JavaScript Essentials,Web Development,23.18,2025-02-18,4.9,1.1,False,UPI,False
+100,User100,52,Other,South America,2024-07-21,4912,UI/UX Design,Design,73.95,2024-08-02,26.6,2.5,False,Credit Card,False
+101,User101,27,Female,South America,2024-02-20,3492,Email Marketing,Marketing,14.42,2024-06-28,32.8,2.1,False,Credit Card,True
+102,User102,21,Other,North America,2022-07-25,9617,SEO Fundamentals,Marketing,141.65,2022-11-07,14.6,4.7,False,Credit Card,True
+103,User103,53,Other,Europe,2022-06-03,6546,Social Media Marketing,Marketing,89.41,2022-08-27,38.7,3.2,False,PayPal,True
+104,User104,54,Other,Africa,2024-02-18,8994,Figma for Designers,Design,152.62,2024-04-19,32.5,5.0,True,PayPal,True
+105,User105,53,Other,North America,2023-04-11,2612,Machine Learning 101,Data Science,80.68,2023-10-06,31.3,2.4,True,UPI,True
+106,User106,49,Female,Asia,2022-04-05,5806,UI/UX Design,Design,173.1,2022-05-13,17.7,4.0,False,UPI,False
+107,User107,42,Male,Africa,2024-04-23,3950,Finance for Non-Finance,Business,55.26,2024-09-27,15.7,3.1,True,Credit Card,True
+108,User108,37,Female,Africa,2023-05-09,3344,Email Marketing,Marketing,167.03,2023-09-04,13.5,4.6,True,UPI,False
+109,User109,53,Female,Asia,2024-08-10,9955,Figma for Designers,Design,12.06,2024-11-07,36.3,1.4,True,Credit Card,False
+110,User110,24,Other,North America,2024-05-18,5949,Photoshop Basics,Design,191.79,2024-06-15,27.4,2.9,True,UPI,False
+111,User111,33,Male,South America,2024-01-06,5837,Business Analytics,Business,95.2,2024-03-17,12.4,2.3,True,PayPal,False
+112,User112,38,Male,Africa,2022-04-11,9138,Finance for Non-Finance,Business,152.95,2022-06-07,31.9,4.2,False,Credit Card,False
+113,User113,59,Other,Europe,2023-05-29,2591,React for Beginners,Web Development,195.11,2023-06-07,39.8,1.2,True,UPI,False
+114,User114,52,Other,North America,2022-09-27,6352,Machine Learning 101,Data Science,178.66,2022-10-31,14.7,1.5,False,Credit Card,True
+115,User115,29,Other,North America,2024-12-23,3695,Business Analytics,Business,140.73,2025-03-20,33.6,4.5,False,UPI,False
+116,User116,55,Male,South America,2022-06-04,7511,HTML & CSS,Web Development,25.98,2022-06-08,28.3,1.3,False,Credit Card,False
+117,User117,44,Female,Africa,2022-09-11,5295,Social Media Marketing,Marketing,144.19,2022-10-09,4.2,1.3,False,PayPal,False
+118,User118,36,Other,Europe,2024-08-23,6374,Deep Learning Basics,Data Science,120.45,2025-02-02,34.7,4.5,True,PayPal,True
+119,User119,34,Female,North America,2024-04-16,1742,Python for Data Science,Data Science,189.98,2024-05-16,39.5,4.0,True,UPI,False
+120,User120,23,Male,Europe,2022-10-05,7078,Social Media Marketing,Marketing,144.55,2023-01-20,19.8,2.5,False,PayPal,True
+121,User121,56,Other,Asia,2024-09-29,5583,Business Analytics,Business,90.6,2024-11-24,36.3,1.4,True,PayPal,False
+122,User122,20,Female,South America,2023-04-29,7018,UI/UX Design,Design,58.2,2023-07-09,16.8,3.3,False,Credit Card,False
+123,User123,37,Male,Asia,2024-07-20,4475,Deep Learning Basics,Data Science,32.58,2024-09-21,5.6,3.6,True,Credit Card,False
+124,User124,18,Male,Africa,2023-02-25,4394,Deep Learning Basics,Data Science,139.4,2023-04-04,10.3,2.6,True,Credit Card,False
+125,User125,42,Other,Asia,2023-07-22,9850,HTML & CSS,Web Development,175.03,2024-01-08,9.7,4.9,False,Credit Card,True
+126,User126,49,Male,Europe,2022-01-31,6304,UI/UX Design,Design,115.64,2022-02-14,13.6,1.2,True,Credit Card,False
+127,User127,38,Male,South America,2024-12-13,2041,Deep Learning Basics,Data Science,198.66,2025-04-24,3.9,3.2,False,UPI,False
+128,User128,37,Other,Asia,2024-07-14,1710,Startup Strategy,Business,24.33,2024-07-30,7.5,1.9,False,UPI,True
+129,User129,32,Female,South America,2024-05-23,8267,Machine Learning 101,Data Science,96.36,2024-10-26,25.5,3.3,True,Credit Card,False
+130,User130,33,Male,Asia,2022-09-16,9984,Figma for Designers,Design,150.05,2023-01-11,36.7,4.8,False,UPI,False
+131,User131,33,Other,Africa,2024-05-31,2874,Deep Learning Basics,Data Science,179.15,2024-07-29,18.8,3.5,True,UPI,False
+132,User132,25,Female,North America,2024-07-17,2557,Social Media Marketing,Marketing,42.24,2025-01-04,26.2,2.6,False,UPI,False
+133,User133,45,Female,North America,2022-11-09,2494,SEO Fundamentals,Marketing,24.77,2022-12-04,39.0,4.9,True,Credit Card,False
+134,User134,34,Other,North America,2022-09-24,6400,Startup Strategy,Business,63.16,2023-03-14,17.0,3.4,True,UPI,False
+135,User135,46,Female,Asia,2023-08-13,6761,Business Analytics,Business,35.31,2023-09-22,4.0,4.8,True,PayPal,True
+136,User136,22,Other,South America,2023-04-05,7022,Machine Learning 101,Data Science,126.55,2023-07-24,17.3,4.7,True,UPI,True
+137,User137,22,Other,Africa,2022-02-23,5381,Finance for Non-Finance,Business,15.01,2022-08-22,15.7,4.2,True,Credit Card,False
+138,User138,49,Female,North America,2023-12-20,3347,Python for Data Science,Data Science,197.2,2024-05-31,15.7,4.0,False,Credit Card,True
+139,User139,42,Male,Asia,2024-12-22,7878,JavaScript Essentials,Web Development,194.28,2025-03-27,33.8,4.4,False,UPI,True
+140,User140,51,Female,North America,2022-06-23,3579,Python for Data Science,Data Science,17.0,2022-09-01,6.2,1.1,True,PayPal,True
+141,User141,23,Female,South America,2024-09-21,7785,Business Analytics,Business,141.43,2024-12-19,21.8,4.0,False,Credit Card,True
+142,User142,20,Female,Asia,2023-08-04,9633,Business Analytics,Business,115.53,2023-11-14,31.0,4.8,False,Credit Card,True
+143,User143,27,Other,Asia,2022-01-16,4460,JavaScript Essentials,Web Development,81.79,2022-04-10,10.4,1.8,True,UPI,False
+144,User144,18,Male,Asia,2024-10-15,3116,SEO Fundamentals,Marketing,191.27,2025-02-21,24.6,1.9,False,PayPal,True
+145,User145,57,Other,North America,2022-05-28,1693,Email Marketing,Marketing,127.44,2022-06-17,15.0,1.5,False,Credit Card,False
+146,User146,43,Female,Africa,2024-05-29,7843,Business Analytics,Business,104.65,2024-06-04,19.6,4.3,False,Credit Card,False
+147,User147,29,Female,Europe,2024-07-31,8155,UI/UX Design,Design,165.11,2024-12-29,38.8,1.4,True,Credit Card,False
+148,User148,34,Female,Africa,2022-06-11,6562,Social Media Marketing,Marketing,35.46,2022-07-01,2.1,4.0,True,UPI,True
+149,User149,38,Other,Asia,2024-12-22,6724,Startup Strategy,Business,131.48,2025-02-21,32.4,4.6,False,PayPal,True
+150,User150,51,Male,Europe,2023-06-09,3504,HTML & CSS,Web Development,76.61,2023-10-06,24.0,2.6,True,Credit Card,False
+151,User151,44,Other,Africa,2024-07-08,6295,Finance for Non-Finance,Business,27.29,2024-07-26,29.3,3.2,False,Credit Card,False
+152,User152,50,Female,South America,2023-09-13,1920,Figma for Designers,Design,158.89,2023-12-02,16.5,3.5,False,PayPal,True
+153,User153,34,Female,South America,2022-03-19,5703,Machine Learning 101,Data Science,190.41,2022-08-24,6.7,4.7,True,PayPal,True
+154,User154,27,Other,Africa,2024-02-27,1672,Email Marketing,Marketing,156.09,2024-05-20,3.6,1.2,False,PayPal,True
+155,User155,23,Other,South America,2024-10-23,8381,HTML & CSS,Web Development,103.6,2025-03-02,13.8,3.5,True,UPI,True
+156,User156,28,Other,Europe,2022-03-22,8172,React for Beginners,Web Development,24.41,2022-06-24,6.0,1.5,False,PayPal,True
+157,User157,48,Female,North America,2024-03-04,1857,Social Media Marketing,Marketing,86.06,2024-03-29,28.2,1.7,False,Credit Card,False
+158,User158,21,Other,South America,2023-08-05,3463,Figma for Designers,Design,75.68,2023-11-03,36.0,2.9,False,Credit Card,True
+159,User159,46,Female,South America,2022-09-22,2388,Finance for Non-Finance,Business,194.89,2023-03-06,24.5,1.9,False,PayPal,False
+160,User160,38,Female,Europe,2024-12-14,7937,Deep Learning Basics,Data Science,42.1,2025-03-04,11.9,1.7,False,Credit Card,False
+161,User161,38,Male,Europe,2023-12-01,4711,SEO Fundamentals,Marketing,114.26,2024-02-15,21.8,2.4,True,Credit Card,True
+162,User162,51,Male,Africa,2024-12-14,6517,Deep Learning Basics,Data Science,34.46,2025-01-23,13.9,2.3,True,PayPal,False
+163,User163,43,Male,Europe,2022-12-06,7731,SEO Fundamentals,Marketing,161.89,2023-03-30,25.5,1.3,False,PayPal,True
+164,User164,47,Other,North America,2024-07-08,4918,React for Beginners,Web Development,39.83,2024-10-11,15.7,1.0,False,UPI,True
+165,User165,53,Other,Africa,2024-06-21,7256,Social Media Marketing,Marketing,163.18,2024-11-23,30.2,1.7,False,Credit Card,True
+166,User166,32,Male,North America,2022-04-17,2680,Social Media Marketing,Marketing,111.95,2022-05-29,37.0,1.9,True,UPI,True
+167,User167,45,Female,South America,2024-11-17,2502,JavaScript Essentials,Web Development,80.09,2024-11-24,19.0,4.0,True,UPI,False
+168,User168,31,Female,Asia,2024-03-22,4862,Business Analytics,Business,38.07,2024-05-19,6.2,3.7,False,Credit Card,False
+169,User169,40,Male,North America,2022-07-22,3254,UI/UX Design,Design,107.22,2023-01-17,21.8,1.4,True,UPI,False
+170,User170,55,Male,South America,2024-07-07,2298,Startup Strategy,Business,111.2,2024-08-15,10.5,2.1,True,UPI,True
+171,User171,54,Other,Africa,2024-12-16,5720,SEO Fundamentals,Marketing,44.63,2024-12-29,23.0,4.4,True,UPI,True
+172,User172,39,Male,South America,2024-07-25,9189,Python for Data Science,Data Science,72.22,2024-08-31,5.7,4.6,True,PayPal,True
+173,User173,37,Female,South America,2022-01-04,4941,Business Analytics,Business,100.05,2022-05-19,14.8,3.6,False,Credit Card,True
+174,User174,35,Female,Asia,2024-12-13,9316,Finance for Non-Finance,Business,26.51,2024-12-25,21.9,3.3,True,UPI,False
+175,User175,25,Other,South America,2024-02-04,1266,Figma for Designers,Design,121.44,2024-04-06,23.0,2.5,False,Credit Card,False
+176,User176,54,Other,Asia,2023-11-12,6772,HTML & CSS,Web Development,78.99,2024-05-06,26.2,3.3,False,PayPal,True
+177,User177,23,Female,South America,2023-01-09,8498,HTML & CSS,Web Development,125.1,2023-01-21,10.3,1.4,True,UPI,True
+178,User178,23,Male,Asia,2023-10-09,7524,Figma for Designers,Design,79.42,2024-03-23,20.0,4.4,False,UPI,True
+179,User179,47,Male,North America,2024-01-02,6438,Deep Learning Basics,Data Science,42.94,2024-04-23,36.0,1.3,False,Credit Card,False
+180,User180,48,Female,South America,2024-03-02,9129,UI/UX Design,Design,87.98,2024-03-24,39.3,1.4,False,UPI,False
+181,User181,19,Other,South America,2022-06-11,3956,Email Marketing,Marketing,119.44,2022-07-02,36.8,1.0,False,UPI,True
+182,User182,47,Female,North America,2023-09-20,7981,Email Marketing,Marketing,42.47,2023-12-19,27.1,4.7,True,PayPal,False
+183,User183,32,Female,Asia,2023-12-24,5498,Business Analytics,Business,111.66,2024-03-27,19.6,4.4,True,Credit Card,False
+184,User184,22,Other,Europe,2022-03-05,8179,React for Beginners,Web Development,45.54,2022-05-05,13.6,2.7,True,Credit Card,True
+185,User185,50,Other,North America,2024-01-12,1530,Email Marketing,Marketing,149.89,2024-04-16,21.7,3.8,True,PayPal,False
+186,User186,31,Female,South America,2022-06-07,9674,Startup Strategy,Business,64.84,2022-11-21,23.7,1.6,False,UPI,False
+187,User187,53,Female,Europe,2022-08-21,4048,Deep Learning Basics,Data Science,70.92,2023-01-12,24.2,2.5,False,PayPal,False
+188,User188,27,Male,North America,2023-06-18,5678,SEO Fundamentals,Marketing,114.23,2023-07-23,22.4,1.8,False,Credit Card,True
+189,User189,57,Male,South America,2022-12-20,6236,SEO Fundamentals,Marketing,163.88,2023-05-10,10.9,3.7,False,PayPal,True
+190,User190,34,Other,North America,2023-09-07,3852,React for Beginners,Web Development,32.17,2023-10-09,19.5,3.4,False,PayPal,True
+191,User191,52,Male,Europe,2023-04-30,6912,SEO Fundamentals,Marketing,76.28,2023-10-04,37.3,4.3,False,UPI,True
+192,User192,31,Male,Asia,2023-09-26,8842,Email Marketing,Marketing,187.26,2023-10-29,39.6,1.8,False,UPI,True
+193,User193,52,Female,Asia,2024-07-10,9476,Email Marketing,Marketing,22.63,2024-08-13,29.9,3.3,False,Credit Card,True
+194,User194,46,Female,Africa,2022-04-24,3507,Deep Learning Basics,Data Science,36.56,2022-07-16,32.0,1.8,False,Credit Card,True
+195,User195,47,Other,Europe,2023-12-10,2292,Business Analytics,Business,166.78,2024-01-12,8.3,1.9,False,Credit Card,False
+196,User196,31,Other,North America,2024-12-28,3762,Deep Learning Basics,Data Science,109.38,2025-05-22,15.0,4.5,True,Credit Card,False
+197,User197,42,Male,Asia,2022-06-16,5336,Deep Learning Basics,Data Science,139.77,2022-11-22,18.6,3.9,True,PayPal,False
+198,User198,49,Other,Asia,2024-10-16,5949,Business Analytics,Business,97.91,2025-01-01,12.8,4.0,False,Credit Card,False
+199,User199,32,Female,Asia,2022-05-03,7809,JavaScript Essentials,Web Development,119.72,2022-07-30,14.9,2.6,False,UPI,True
+200,User200,19,Other,Europe,2023-10-03,6658,Figma for Designers,Design,113.28,2024-02-12,36.4,3.5,False,Credit Card,False
