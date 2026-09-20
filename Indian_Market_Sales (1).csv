@@ -1,0 +1,201 @@
+SaleID,OrderDate,DeliveryDate,ProductCategory,Region,SalesAmount,UnitsSold,IsHoliday,PaymentMethod
+1,2024-10-16,2024-10-19,Clothing,Bengaluru,141958,26,No,Credit Card
+2,2023-04-25,2023-05-04,Clothing,Delhi,166867,32,No,Credit Card
+3,2023-01-26,2023-01-28,Clothing,Bengaluru,151932,6,Yes,Credit Card
+4,2025-01-29,2025-02-03,Electronics,Hyderabad,123694,32,No,Credit Card
+5,2023-10-09,2023-10-18,Furniture,Mumbai,139879,4,No,UPI
+6,2023-09-08,2023-09-18,Clothing,Delhi,130268,11,No,Credit Card
+7,2023-08-17,2023-08-21,Clothing,Pune,74886,17,No,UPI
+8,2023-05-23,2023-05-26,Grocery,Pune,157337,38,No,UPI
+9,2025-01-24,2025-01-30,Clothing,Kolkata,188266,24,No,Credit Card
+10,2023-04-15,2023-04-18,Grocery,Chennai,107498,5,No,Credit Card
+11,2024-11-23,2024-12-02,Furniture,Hyderabad,132727,34,No,Debit Card
+12,2025-01-28,2025-02-06,Electronics,Delhi,146324,6,No,Cash
+13,2024-07-12,2024-07-13,Electronics,Pune,195203,22,No,Credit Card
+14,2023-03-31,2023-04-10,Furniture,Chennai,36023,11,No,Debit Card
+15,2024-08-27,2024-09-02,Electronics,Pune,61090,48,No,Debit Card
+16,2024-03-08,2024-03-16,Furniture,Delhi,87221,16,No,Cash
+17,2023-02-02,2023-02-03,Furniture,Bengaluru,84820,33,No,UPI
+18,2023-01-31,2023-02-02,Furniture,Delhi,20769,9,No,Credit Card
+19,2023-04-06,2023-04-12,Electronics,Kolkata,79735,6,No,Cash
+20,2023-08-12,2023-08-17,Grocery,Delhi,84925,16,No,Credit Card
+21,2023-08-27,2023-08-31,Furniture,Delhi,25311,29,Yes,Debit Card
+22,2024-06-01,2024-06-02,Clothing,Kolkata,123355,3,No,Debit Card
+23,2024-09-08,2024-09-12,Electronics,Hyderabad,105305,20,Yes,UPI
+24,2023-01-28,2023-02-07,Furniture,Delhi,179765,36,No,Debit Card
+25,2024-07-28,2024-07-30,Furniture,Kolkata,150608,19,Yes,Debit Card
+26,2023-07-23,2023-07-25,Clothing,Chennai,176730,26,Yes,Cash
+27,2025-01-03,2025-01-11,Grocery,Bengaluru,104478,3,No,Credit Card
+28,2024-10-27,2024-10-29,Grocery,Bengaluru,142537,19,Yes,Credit Card
+29,2024-12-19,2024-12-28,Grocery,Delhi,169503,20,No,Cash
+30,2024-07-12,2024-07-15,Furniture,Hyderabad,150523,32,No,UPI
+31,2024-03-05,2024-03-08,Furniture,Hyderabad,22747,7,No,Credit Card
+32,2023-08-14,2023-08-22,Furniture,Chennai,143855,41,No,Debit Card
+33,2024-04-04,2024-04-13,Electronics,Delhi,85725,33,No,Credit Card
+34,2024-08-26,2024-08-29,Clothing,Bengaluru,149981,40,No,Debit Card
+35,2023-10-12,2023-10-17,Furniture,Hyderabad,104654,39,No,UPI
+36,2025-04-08,2025-04-17,Clothing,Delhi,186845,18,No,Cash
+37,2023-01-07,2023-01-17,Clothing,Pune,139346,40,No,Credit Card
+38,2025-02-16,2025-02-23,Grocery,Hyderabad,87435,1,Yes,Cash
+39,2025-04-05,2025-04-09,Electronics,Kolkata,76886,11,No,Credit Card
+40,2023-06-13,2023-06-22,Furniture,Pune,86803,28,No,Debit Card
+41,2024-12-15,2024-12-19,Grocery,Hyderabad,51551,25,Yes,Cash
+42,2024-03-08,2024-03-13,Grocery,Bengaluru,136216,23,No,Credit Card
+43,2023-12-15,2023-12-22,Furniture,Mumbai,31394,31,No,Debit Card
+44,2023-10-12,2023-10-18,Clothing,Pune,89092,30,No,Cash
+45,2023-06-09,2023-06-17,Grocery,Chennai,23890,42,No,Cash
+46,2023-08-09,2023-08-18,Clothing,Chennai,61606,35,No,Credit Card
+47,2025-02-20,2025-02-28,Electronics,Bengaluru,107313,7,No,Credit Card
+48,2023-12-11,2023-12-13,Clothing,Hyderabad,161699,16,No,Credit Card
+49,2023-04-15,2023-04-19,Electronics,Delhi,28792,26,No,Debit Card
+50,2023-04-05,2023-04-09,Clothing,Hyderabad,194073,48,No,Credit Card
+51,2024-01-25,2024-01-27,Grocery,Bengaluru,174969,49,No,Cash
+52,2023-04-10,2023-04-16,Grocery,Chennai,88148,2,No,Cash
+53,2024-01-03,2024-01-04,Electronics,Hyderabad,144243,1,No,Credit Card
+54,2025-05-17,2025-05-27,Furniture,Chennai,140174,48,No,Credit Card
+55,2023-12-19,2023-12-28,Electronics,Pune,174555,12,No,UPI
+56,2024-09-10,2024-09-14,Electronics,Delhi,144358,5,No,Cash
+57,2023-09-28,2023-10-08,Clothing,Pune,68555,37,No,Debit Card
+58,2025-04-06,2025-04-10,Clothing,Chennai,37159,32,Yes,UPI
+59,2023-02-14,2023-02-15,Electronics,Chennai,130510,9,No,Credit Card
+60,2025-01-17,2025-01-19,Grocery,Mumbai,126530,41,No,Credit Card
+61,2024-04-15,2024-04-16,Clothing,Mumbai,100077,35,No,Cash
+62,2024-07-03,2024-07-07,Furniture,Pune,55920,19,No,Credit Card
+63,2023-05-08,2023-05-10,Clothing,Kolkata,39457,48,No,Debit Card
+64,2024-01-23,2024-01-24,Clothing,Pune,98953,16,No,Cash
+65,2023-03-22,2023-03-28,Furniture,Mumbai,72995,3,No,Credit Card
+66,2024-07-19,2024-07-21,Electronics,Chennai,191829,20,No,Cash
+67,2023-10-28,2023-11-06,Furniture,Bengaluru,29692,24,No,Credit Card
+68,2025-04-29,2025-05-03,Electronics,Pune,196830,33,No,Credit Card
+69,2024-10-05,2024-10-10,Electronics,Chennai,57065,24,No,Credit Card
+70,2024-09-25,2024-10-03,Electronics,Bengaluru,119299,11,No,Debit Card
+71,2025-06-01,2025-06-05,Furniture,Bengaluru,183678,49,Yes,Debit Card
+72,2024-01-06,2024-01-15,Electronics,Mumbai,31534,8,No,Cash
+73,2024-08-14,2024-08-17,Grocery,Pune,60397,36,No,Credit Card
+74,2023-07-16,2023-07-26,Furniture,Hyderabad,111387,38,Yes,Credit Card
+75,2024-12-22,2025-01-01,Grocery,Delhi,21016,40,Yes,Debit Card
+76,2023-03-13,2023-03-21,Electronics,Mumbai,75591,20,No,Credit Card
+77,2023-02-16,2023-02-20,Clothing,Mumbai,43247,35,No,Debit Card
+78,2024-11-08,2024-11-16,Electronics,Hyderabad,44300,48,No,Credit Card
+79,2023-08-22,2023-08-29,Grocery,Delhi,102798,25,No,Cash
+80,2025-03-02,2025-03-06,Grocery,Chennai,29268,35,Yes,Credit Card
+81,2023-10-24,2023-10-26,Furniture,Kolkata,106807,25,No,Credit Card
+82,2023-03-23,2023-03-25,Clothing,Pune,32185,29,No,UPI
+83,2025-05-25,2025-06-01,Furniture,Kolkata,190171,18,Yes,Debit Card
+84,2023-08-27,2023-09-02,Grocery,Chennai,159643,46,Yes,Credit Card
+85,2023-04-14,2023-04-21,Electronics,Mumbai,58044,18,No,Credit Card
+86,2024-01-25,2024-02-01,Clothing,Delhi,71214,2,No,UPI
+87,2023-10-12,2023-10-20,Electronics,Mumbai,134752,35,No,UPI
+88,2024-04-09,2024-04-10,Electronics,Bengaluru,68984,16,No,Debit Card
+89,2024-10-12,2024-10-14,Clothing,Mumbai,60774,41,No,UPI
+90,2025-05-04,2025-05-05,Furniture,Mumbai,22568,36,Yes,Cash
+91,2024-01-09,2024-01-16,Electronics,Chennai,140151,33,No,UPI
+92,2023-06-16,2023-06-22,Grocery,Chennai,153767,4,No,Cash
+93,2024-01-15,2024-01-17,Electronics,Chennai,144375,33,No,Debit Card
+94,2023-12-30,2024-01-03,Clothing,Kolkata,199262,14,No,Debit Card
+95,2023-08-03,2023-08-07,Clothing,Bengaluru,156330,21,No,Debit Card
+96,2024-11-17,2024-11-21,Clothing,Chennai,59504,48,Yes,Debit Card
+97,2023-10-01,2023-10-10,Furniture,Delhi,184231,20,Yes,Debit Card
+98,2024-12-19,2024-12-27,Electronics,Kolkata,33986,8,No,Cash
+99,2024-11-30,2024-12-03,Furniture,Hyderabad,81858,7,No,Cash
+100,2024-10-25,2024-11-01,Furniture,Delhi,149312,3,No,Debit Card
+101,2023-03-15,2023-03-18,Clothing,Pune,32666,17,No,UPI
+102,2024-09-15,2024-09-20,Clothing,Pune,58660,33,Yes,Credit Card
+103,2024-10-12,2024-10-20,Furniture,Delhi,154633,48,No,Debit Card
+104,2023-06-25,2023-06-29,Electronics,Chennai,46854,12,Yes,UPI
+105,2024-06-30,2024-07-02,Grocery,Hyderabad,84505,22,Yes,Credit Card
+106,2025-01-16,2025-01-24,Furniture,Hyderabad,124488,22,No,Debit Card
+107,2023-09-08,2023-09-17,Electronics,Kolkata,42662,46,No,Debit Card
+108,2023-06-17,2023-06-19,Clothing,Hyderabad,28392,30,No,Cash
+109,2024-04-18,2024-04-19,Clothing,Pune,50535,38,No,Credit Card
+110,2024-01-24,2024-02-02,Electronics,Bengaluru,133569,38,No,Credit Card
+111,2023-10-04,2023-10-05,Grocery,Chennai,72256,45,No,UPI
+112,2024-10-17,2024-10-19,Clothing,Hyderabad,109135,8,No,Cash
+113,2024-12-05,2024-12-09,Clothing,Kolkata,147478,27,No,Cash
+114,2024-07-24,2024-07-27,Clothing,Pune,55222,27,No,Cash
+115,2023-08-13,2023-08-20,Electronics,Bengaluru,97373,34,Yes,Cash
+116,2024-12-02,2024-12-10,Furniture,Mumbai,143684,21,No,Credit Card
+117,2023-11-29,2023-12-07,Clothing,Mumbai,30965,30,No,Credit Card
+118,2025-05-13,2025-05-17,Furniture,Bengaluru,44538,33,No,Debit Card
+119,2025-02-25,2025-03-04,Grocery,Pune,128066,28,No,Debit Card
+120,2025-03-05,2025-03-06,Clothing,Kolkata,133252,47,No,Cash
+121,2023-02-27,2023-03-02,Clothing,Bengaluru,159182,33,No,Cash
+122,2023-08-23,2023-08-30,Grocery,Chennai,178338,5,No,Cash
+123,2025-04-21,2025-04-22,Clothing,Chennai,118806,48,No,Debit Card
+124,2023-02-02,2023-02-09,Furniture,Mumbai,157982,19,No,UPI
+125,2025-04-04,2025-04-09,Electronics,Hyderabad,130989,4,No,UPI
+126,2023-11-20,2023-11-28,Furniture,Kolkata,110982,35,No,Debit Card
+127,2024-02-15,2024-02-20,Electronics,Mumbai,141626,49,No,Debit Card
+128,2023-10-02,2023-10-09,Electronics,Hyderabad,139176,17,Yes,Debit Card
+129,2023-03-09,2023-03-18,Furniture,Hyderabad,151278,44,No,Debit Card
+130,2023-08-05,2023-08-13,Furniture,Chennai,142409,28,No,Debit Card
+131,2024-08-03,2024-08-06,Furniture,Pune,43419,30,No,Debit Card
+132,2025-01-05,2025-01-09,Furniture,Delhi,70015,29,Yes,Cash
+133,2023-11-19,2023-11-24,Grocery,Pune,142096,46,Yes,Cash
+134,2023-08-06,2023-08-10,Clothing,Delhi,127059,6,Yes,Cash
+135,2024-11-02,2024-11-03,Electronics,Bengaluru,130687,35,No,Cash
+136,2024-05-26,2024-06-05,Furniture,Chennai,107939,41,Yes,Debit Card
+137,2024-02-10,2024-02-19,Furniture,Hyderabad,169213,37,No,UPI
+138,2024-10-20,2024-10-21,Furniture,Kolkata,125878,24,Yes,Credit Card
+139,2024-04-14,2024-04-20,Grocery,Delhi,184899,29,Yes,Debit Card
+140,2023-05-27,2023-05-28,Furniture,Pune,82623,49,No,Credit Card
+141,2023-09-29,2023-09-30,Furniture,Hyderabad,95450,46,No,UPI
+142,2023-05-23,2023-06-02,Furniture,Delhi,113426,31,No,Cash
+143,2023-09-10,2023-09-18,Clothing,Delhi,137845,35,Yes,UPI
+144,2025-02-01,2025-02-10,Grocery,Delhi,173371,33,No,Debit Card
+145,2024-07-28,2024-08-06,Furniture,Kolkata,63585,21,Yes,Cash
+146,2024-07-05,2024-07-08,Electronics,Chennai,129225,32,No,Debit Card
+147,2023-09-27,2023-09-28,Electronics,Kolkata,84044,23,No,Cash
+148,2025-02-03,2025-02-12,Electronics,Mumbai,193629,33,No,Credit Card
+149,2024-08-21,2024-08-23,Grocery,Hyderabad,129556,3,No,Credit Card
+150,2024-03-14,2024-03-17,Grocery,Chennai,22693,18,No,Credit Card
+151,2024-08-20,2024-08-22,Electronics,Chennai,115259,25,No,UPI
+152,2024-02-13,2024-02-23,Furniture,Chennai,45939,42,No,Debit Card
+153,2024-01-06,2024-01-08,Grocery,Pune,199997,31,No,UPI
+154,2023-08-13,2023-08-17,Electronics,Chennai,194013,3,Yes,Credit Card
+155,2023-05-22,2023-05-29,Electronics,Kolkata,172906,40,No,Debit Card
+156,2024-06-05,2024-06-07,Furniture,Chennai,38047,46,No,Credit Card
+157,2024-05-20,2024-05-30,Clothing,Bengaluru,46105,24,No,UPI
+158,2023-04-04,2023-04-08,Grocery,Hyderabad,95766,32,No,UPI
+159,2025-02-12,2025-02-22,Furniture,Chennai,166779,47,No,UPI
+160,2023-02-18,2023-02-28,Electronics,Hyderabad,173048,22,No,Credit Card
+161,2025-05-31,2025-06-01,Electronics,Bengaluru,64262,23,No,Debit Card
+162,2023-04-23,2023-05-03,Furniture,Bengaluru,145117,2,Yes,Debit Card
+163,2023-06-06,2023-06-08,Grocery,Hyderabad,43776,27,No,Credit Card
+164,2024-10-04,2024-10-11,Clothing,Delhi,181152,42,No,Debit Card
+165,2023-06-13,2023-06-23,Clothing,Mumbai,148376,2,No,Credit Card
+166,2025-03-22,2025-04-01,Electronics,Pune,157848,26,No,Debit Card
+167,2024-11-27,2024-12-06,Grocery,Delhi,112787,17,No,Cash
+168,2024-03-08,2024-03-14,Clothing,Delhi,147948,40,No,Cash
+169,2024-09-02,2024-09-07,Grocery,Kolkata,75016,33,No,UPI
+170,2023-03-07,2023-03-11,Grocery,Pune,160546,9,No,Cash
+171,2024-01-30,2024-02-05,Electronics,Pune,41959,43,No,Cash
+172,2024-01-26,2024-01-30,Clothing,Delhi,156602,48,Yes,Cash
+173,2024-09-02,2024-09-07,Furniture,Chennai,139101,39,No,Credit Card
+174,2024-04-24,2024-05-01,Electronics,Kolkata,23748,29,No,Cash
+175,2024-06-25,2024-06-28,Clothing,Kolkata,33545,42,No,Cash
+176,2023-09-15,2023-09-20,Clothing,Bengaluru,147659,26,No,UPI
+177,2024-07-20,2024-07-28,Clothing,Pune,185838,35,No,Cash
+178,2025-05-31,2025-06-06,Clothing,Delhi,93530,25,No,Cash
+179,2023-01-12,2023-01-14,Clothing,Bengaluru,113557,24,No,Debit Card
+180,2024-11-27,2024-11-28,Grocery,Hyderabad,81087,13,No,UPI
+181,2025-01-08,2025-01-16,Electronics,Mumbai,88840,7,No,UPI
+182,2023-04-28,2023-05-08,Grocery,Kolkata,138451,36,No,UPI
+183,2024-11-29,2024-12-09,Furniture,Hyderabad,71005,45,No,UPI
+184,2024-07-03,2024-07-05,Clothing,Hyderabad,197648,20,No,UPI
+185,2025-02-07,2025-02-09,Electronics,Chennai,59353,1,No,UPI
+186,2023-10-01,2023-10-10,Clothing,Mumbai,72733,8,Yes,Credit Card
+187,2025-02-26,2025-03-02,Electronics,Hyderabad,85318,46,No,Cash
+188,2024-10-18,2024-10-27,Grocery,Hyderabad,174736,16,No,UPI
+189,2023-12-15,2023-12-20,Electronics,Mumbai,87172,14,No,Cash
+190,2023-04-25,2023-04-28,Furniture,Mumbai,113264,12,No,Cash
+191,2023-10-28,2023-11-03,Furniture,Hyderabad,46736,23,No,Credit Card
+192,2024-03-21,2024-03-23,Electronics,Mumbai,132859,15,No,UPI
+193,2023-06-11,2023-06-15,Electronics,Hyderabad,132181,28,Yes,Debit Card
+194,2024-04-09,2024-04-15,Electronics,Hyderabad,151926,34,No,Credit Card
+195,2023-01-04,2023-01-09,Electronics,Chennai,110084,2,No,Debit Card
+196,2025-01-09,2025-01-12,Furniture,Delhi,189695,32,No,Cash
+197,2025-01-06,2025-01-14,Clothing,Hyderabad,27392,23,No,Cash
+198,2023-09-27,2023-10-06,Electronics,Bengaluru,75680,22,No,Credit Card
+199,2024-05-27,2024-06-01,Electronics,Kolkata,197789,25,No,Credit Card
+200,2025-02-19,2025-03-01,Furniture,Pune,70859,22,No,Debit Card
